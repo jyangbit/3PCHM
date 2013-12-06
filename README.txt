@@ -8,3 +8,4 @@ May you have any question or issue, please contact me at jyangbit@163.com.
 
 
 
+The source code package is based on VTK and QT. You may use CMAKE to configure it.
